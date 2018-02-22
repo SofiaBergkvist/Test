@@ -1,0 +1,112 @@
+body {
+	background-color: white;
+}
+#one {
+	display: block; margin-left: auto; margin-right: auto; width: 20%
+}
+h1 {
+	color: #DF0101;
+	border: 4x solid white;
+	border-radius: 4px;
+	background-color: black;
+	letter-spacing: 3px;
+	text-align: center;
+	font-family:"Times New Roman", Times, serif;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #DF0101;
+}
+#idone {
+	color: gray;
+	border: 4px solid black;
+	border-radius: 4px;
+	background-color:white;
+	letter-spacing: 3px;
+	text-align: center; 
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+h2 {
+	color: White;
+	background-color: black;
+	letter-spacing: 3px;
+	Text-align: left-side;
+	font-family:"Arial",  serif;
+}	
+#two {
+	border:4px solid black;
+border-radius: 4px; 
+color: black;
+width: 42%; height: 15%;
+float: center;
+}
+#three {
+	width: 24.6%; height: 30%;
+	float: center;
+}
+#four {
+	border:4px solid black;
+	border-radius: 4px; 
+	color: black;	
+	width: 31.5%; height: 30%;
+	float: center-left;
+}
+
+#idtwo {
+	color: grey;
+	border:4px solid black; 
+	border-radius: 4px;	
+	background-color: white;
+	letter-spacing: 3px;
+	text-align: center;
+	font-family: "High Tower Text", san-serif;
+}
+#five {
+	width: 3%; height: 3%;
+}
+#six {
+	width: 10%; height: 10%;
+}
+#idthree {
+	color: #DF0101;
+	border: 4px solid black;
+	border-radius: 4px;
+	background-color:white;
+	letter-spacing: 3px;
+	text-align: center; 
+	font-family: "Impact", grey-serif;
+}
+#idfour {
+	color: white;
+	letter-spacing: 3px;
+	text-align: center;
+	background-color: #BDBDBD;
+}
+#pone {
+	font-family: "Broadway", san-serif
+}
+#ptwo {
+	font-family: "Bodoni MT Poster Compressed",serif;
+}
+#pthree {
+	font-family: "Harlow Solid Italic",serif;
+}
+#pfour {
+	font-family: "Chiller", serif;
+}
